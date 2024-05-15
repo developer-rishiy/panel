@@ -1,6 +1,7 @@
-![Discord](https://img.shields.io/discord/1240285170351996968?label=Discord&logo=Discord&logoColor=white&style=for-the-badge)
+
 ![GitHub Releases](https://img.shields.io/github/downloads/divedeck/panel/latest/total?style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/divedeck/panel?style=for-the-badge)
+![Discord](https://img.shields.io/discord/1240285170351996968?label=Discord&logo=Discord&logoColor=white&style=for-the-badge)
 
 # DiveDeck Panel
 
