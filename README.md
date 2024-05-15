@@ -14,7 +14,7 @@ An open source project powered by Docker for managing applications, game servers
 Edit the `config.json` file in the root directory to set up the application settings including the database connection and port.
 
 ## Usage
-Navigate to `http://localhost:<port>` to access the Skyport Panel. Log in with your user credentials to manage and view instances.
+Navigate to `http://localhost:<port>` to access the DiveDeck Panel. Log in with your user credentials to manage and view instances.
 
 ## Contributing
 Contributions are welcome. Please fork the repository and submit pull requests with your proposed changes.
